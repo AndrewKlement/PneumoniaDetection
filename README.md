@@ -12,6 +12,8 @@ Pneumonia is a serious infection that affects millions globally. Automated detec
 
 - Andrew Klement  
 - Kevin Aprilian
+- Alexander Agung
+- Rilo Chandra Pradana
 
 ## 🧠 Models Used
 
