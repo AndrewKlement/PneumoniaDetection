@@ -35,6 +35,9 @@ To compare models, we used the following performance metrics:
 - Recall
 - F1-Score
 
+<a href="https://github.com/AndrewKlement/PneumoniaDetection/blob/main/metrics.png" target="_blank">
+        <img src='https://github.com/AndrewKlement/PneumoniaDetection/blob/main/metrics.png' width='650px' alt='image missing' /> </a>
+
 ## 📁 Dataset
 We used the [Chest X-Ray Images (Pneumonia) dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia), publicly available on Kaggle. It contains over 5,000 labeled chest X-ray images (Normal vs Pneumonia).
 
