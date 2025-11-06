@@ -35,6 +35,10 @@ To compare models, we used the following performance metrics:
 - Recall
 - F1-Score
 
+<a href="https://github.com/AndrewKlement/PneumoniaDetection/blob/main/Screenshot%202025-11-06%20083244.png" target="_blank">
+        <img src='https://github.com/AndrewKlement/PneumoniaDetection/blob/main/Screenshot%202025-11-06%20083244.png' width='650px' alt='image missing' /> </a>
+
+## 📊 Training & Validation Loss Graph
 <a href="https://github.com/AndrewKlement/PneumoniaDetection/blob/main/metrics.png" target="_blank">
         <img src='https://github.com/AndrewKlement/PneumoniaDetection/blob/main/metrics.png' width='650px' alt='image missing' /> </a>
 
